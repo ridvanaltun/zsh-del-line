@@ -24,5 +24,4 @@ Just press <kbd>ctrl</kbd> + <kbd><</kbd> then plugin will delete zsh line. It i
 
     ```console
     $ source ~/.zshrc
-    $
     ```
